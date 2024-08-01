@@ -1,6 +1,8 @@
 package com.sparta.clf;
 
 public class BankAccountApp {
+
+    // This is a comment
     public static void main(String[] args) {
         BankAccount myAccount = new BankAccount(1000);
         myAccount.deposit(500);
